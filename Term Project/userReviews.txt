@@ -1,0 +1,1 @@
+User Reviews1. Fixed menu button to by calling init rather than just changing screen2. Slowed down rate of zombies spawning3. Created clearer instructions4. Fixed win condition to stop randomly generating a win5. Fixed crash upon losing

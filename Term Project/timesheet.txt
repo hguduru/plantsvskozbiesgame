@@ -1,0 +1,38 @@
+PLANTS VS. KOZBIESFriday, 15th November* 5:30 pm to 8:30 pm Ð Reading up on Pygame documentationSaturday, 16th November* 3:00 pm to 6:00 pm Ð Reading up on Tkinter documentation* 7:00 pm to 8:00 pm Ð Pygame optional lecture * 8:30 pm to 10:30 pm Ð Playing around with Pygame, discovering featuresSunday, 17th November* 3:00 pm to 7:00 pm Ð Figuring out Pygame, reasoning through optional lecture code, getting started by drawing my garden* 10:00 pm to 2:00 am Ð Creating images and sprites for peashooter, zombieMonday, 18th November* 11:15 am to 12:15 pm Ð Coding* 3:00 pm to 4:00 pm Ð Creating collisions so that peas kill zombies with one hit* 4:30 pm to 4:45 pm Ð Meeting with mentor to demonstrate my use of Pygame* 7:00 pm to 9:30 pm Ð Automating peas firing when zombies are in the laneTuesday, 19th November* 12:30 am to 4:30 am Ð Creating dictionaries of plants, creating different plant options, adding snow peashooter, modifying classes, adding slowing effect
+* 10:30 am to 11:30 am - Looking over code, fixing minor errors here and there
+* 4:00 pm to 5:30 pm - Creating storyboard, competitive analysis, timesheet and project proposal documents
+* 5:30 pm to 5:40 pm - Deliverables 1 meeting with mentor
+
+Wednesday, 20th November
+10:45 am to 2:00 pm - Implementing 2D list for garden, fixing bug where plants can be created atop one another, creating error messages, implementing sunflower selection
+5:00 pm to 6:20 pm - Creating sub-classes for plants (sunflower and peashooter), creating class for spawning sun currency
+8:00 pm to 10:30 pm - Creating randomised sun spawning, enabling sun currency to work based on adding plants and collecting more sun, disabling plant addition if not enough sun
+
+Thursday, 21st November
+* 3:30 pm to 4:30 pm - Allowing sunflowers to generate sun currency
+* 7:30 pm to 9:00 pm - Deleting suns if they remain stationary for too long, making zombies stop and eat plants as opposed to just passing through them, adding Wallnut plant
+
+Friday, 22nd November
+* 5:30 pm to 7:30 pm - Adding lawnmowers, that serve as a last line of defence
+
+Monday, 25th November
+* 5:00 pm to 5:30 pm - Fixing minor bugs
+* 5:30 pm to 5:45 pm - Deliverable 2 meeting with mentor
+* 6:00 pm to 6:30 pm - Adding a new tough zombie, creating a dictionary for zombies
+* 8:00 pm to 9:00 pm - Updating deliverables, adding game over condition, adding text displaying plant costs
+
+Wednesday, 27th November
+* 11:00 pm to 1:00 am - Looking at how to create a menu screen with different buttons, small bug fixes
+
+Friday, 29th November
+* 3:00 pm to 9:00 pm - Creating a menu screen, fixing a major bug to do with the lawnmowers, editing images, creating zombie spawning patterns
+
+Saturday, 30th November
+* 5:00 pm to 9:00 pm - Creating a rules screen and an instructions screen
+
+Tuesday, 3rd December
+* 8:00 pm to 4:00 am - Editing images for background and buttons
+
+Wednesday, 4th December
+* 1 pm to 9 pm - Editing images, fixing bugs, writing documentation, making video
+
